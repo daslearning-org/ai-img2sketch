@@ -1,0 +1,1 @@
+Videos will be stored in this folder.
