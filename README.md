@@ -1,7 +1,7 @@
-# Image to WhiteBoard Sketch Video Generation
-Let's use Python with NumPy & Cv2 to generate this videos. This do not require any fancy pre-trained AI models. This one uses NumPy and OpenCV to do the job. Please visit [daslearning.in](https://daslearning.in) for more.
+# 📷 Image to WhiteBoard Sketch Animation Video Generation
+Simply upload your image and see the magic after clicking the `Submit` button. This do not require any fancy pre-trained AI models. This one uses NumPy and OpenCV to do the job. You can visit my website [daslearning.in](https://daslearning.in) for more topics.
 
-# Demo
+# 📽️ Demo
 To be added later
 
 ## ⚒️ Automatic Installation
@@ -21,6 +21,15 @@ pip install numpy
 pip install opencv-python
 pip install gradio
 ```
+
+## 🤖 Known Issues
+1. Video codec `mp4v` might not be compatible with browser or some video players (The default codec of this app)
+    > Fixes (Tested on Debian based Linux only): The gradio's video module will try to use ffmpeg to convert the video automatically.
+    ```bash
+    # Install FFMPEG related packages
+    sudo apt update
+    sudo apt install ffmpeg libavformat-dev libavcodec-dev libswscale-dev -y
+    ```
 
 ## ▶️ Run the App
 ```bash
