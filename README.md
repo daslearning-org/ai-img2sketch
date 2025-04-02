@@ -37,6 +37,7 @@ python img2SketchUI.py
 ```
 
 ## 📝 Next Plan
+* Add a feature to turn normal colour photo into black-&-white or a sketch style photo which will be added into the video (instead os using the original colour photo).
 * Users can manually change the required video resolution (current one does the best by taking the most suitable resolution for a given image).
 
 ## 🚀 Future Plan
