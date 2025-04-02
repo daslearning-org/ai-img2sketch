@@ -2,7 +2,8 @@
 Simply upload your image and see the magic after clicking the `Submit` button. This do not require any fancy pre-trained AI models. This one uses NumPy and OpenCV to do the job. You can visit my website [daslearning.in](https://daslearning.in) for more topics.
 
 # 📽️ Demo
-To be added later
+You can click on the below Image or this [Youtube Link](https://www.youtube.com/watch?v=skhRkV4IIVg) to see the demo. Please let me know in the comments, how do you feel about this App.
+[![Google AgentSpace](https://img.youtube.com/vi/skhRkV4IIVg/sddefault.jpg)](https://www.youtube.com/watch?v=skhRkV4IIVg)
 
 ## ⚒️ Automatic Installation
 ```bash
