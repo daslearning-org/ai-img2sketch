@@ -1,3 +1,6 @@
+# ⚠️ This project is migrated & udpated
+This project was web based & users need to have little knowledge on python. Now we have created complete standalone `APP` for Android, Windows & Linux. You can check this out [Image-to-Sketch-App](https://github.com/daslearning-org/image-to-animation-offline)
+
 # 📷 Image to WhiteBoard Sketch Animation Video Generation
 Simply upload your image and see the magic after clicking the `Submit` button. This do not require any fancy pre-trained AI models. This one uses NumPy and OpenCV to do the job. You can visit my website [daslearning.in](https://daslearning.in) for more topics.
 
